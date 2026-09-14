@@ -1,0 +1,6 @@
+{
+  "name": "Mera Khata – Smart Business Manager",
+  "description": "Smart business manager with Babu AI conversational voice assistant, accounting ledger, automated daily business posters, referral tracking, and WhatsApp sharing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
